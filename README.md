@@ -22,12 +22,15 @@ Solution
 
 Solution 
 
+(Inspired by [Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem#k.3D2)]
+
+
 
 
 
 ## Other handy resources:
 1. https://fivethirtyeight.com/tag/the-riddler/
-(Inspired by [Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem#k.3D2)]
+2. https://github.com/gowen100/Jane-Street-Solutions/tree/master
 
 ### Pirates Dilemma
 
