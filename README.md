@@ -22,6 +22,11 @@ Solution
 
 Solution 
 
+
+
+
+## Other handy resources:
+1. https://fivethirtyeight.com/tag/the-riddler/
 (Inspired by [Josephus Problem](https://en.wikipedia.org/wiki/Josephus_problem#k.3D2)]
 
 ### Pirates Dilemma
